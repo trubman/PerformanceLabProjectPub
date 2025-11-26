@@ -1,2 +1,0 @@
-0 0 coordinate of the ellipse's center
-5 3 coordinate of the ellipse's radius
